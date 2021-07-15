@@ -1,0 +1,16 @@
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.exe
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.deps.json
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.runtimeconfig.json
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.runtimeconfig.dev.json
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.dll
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ref\ForAlgotithms.dll
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\bin\Debug\net5.0\ForAlgotithms.pdb
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.csproj.AssemblyReference.cache
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.AssemblyInfoInputs.cache
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.AssemblyInfo.cs
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.csproj.CoreCompileInputs.cache
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.dll
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ref\ForAlgotithms.dll
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.pdb
+C:\Users\rembi\OneDrive\Документы\Projects\ForAlgotithms\obj\Debug\net5.0\ForAlgotithms.genruntimeconfig.cache
