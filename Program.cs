@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using Algotithms;
 using algo = Algotithms;
 
 namespace ForAlgotithms
@@ -28,10 +31,20 @@ namespace ForAlgotithms
             //Console.WriteLine(algo.AdditionalFunctions.GetMaxArrayValue(list, list.Length));
         
             // Быстрая сортировка с рекурсией
-            foreach (var item in algo.SortAlgotithms.QuickSort(list))
-            {
-                Console.WriteLine(item);
-            }
+            // foreach (var item in algo.SortAlgotithms.QuickSort(list))
+            // {
+            //     Console.WriteLine(item);
+            // }
+
+            Graph<string> graph = new Graph<string>();
+            graph.AddTop("you", new List<string>(){ "alice", "bob", "claire" });
+            graph.AddTop("bob", new List<string>(){ "anju", "peggy" });
+            graph.AddTop("alice", new List<string>(){ "peggy" });
+            graph.AddTop("claire", new List<string>(){ "thom", "jonny" });
+            graph.AddTop("anju", new List<string>(){ });
+            graph.AddTop("peggy", new List<string>(){ });
+            graph.AddTop("thom", new List<string>(){ });
+            graph.AddTop("jonny", new List<string>(){ });
         }
     }
 }
